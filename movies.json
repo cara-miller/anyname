@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Pinocchio",
+      "release_year": 1940,
+      "runtime": 88
+    },
+    {
+      "id": 2,
+      "title": "Alice in Wonderland",
+      "release_year": 1951,
+      "runtime": 75
+    },
+    {
+      "title": "",
+      "release_year": "",
+      "runtime": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "release_year": "",
+      "runtime": "",
+      "id": 4
+    },
+    {
+      "title": "nort",
+      "release_year": "nopr",
+      "runtime": "lopr",
+      "id": 5
+    },
+    {
+      "title": "blorp",
+      "release_year": "blerp",
+      "runtime": "florp",
+      "id": 6
+    }
+  ]
+}
